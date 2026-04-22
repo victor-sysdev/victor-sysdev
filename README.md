@@ -1,40 +1,36 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=120&section=header&text=Victor%20Merencio&fontColor=00ff00&fontSize=30"/>
-</p>
-
-
----
-
-# 🟢 [root@victor-sec ~]# whoami
+<!-- TERMINAL ANIMADO (HEADER PRINCIPAL) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Developer;AppSec+Focused;Full+Stack+Engineer;Breaking+what+I+build"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=20&center=true&vCenter=true&width=900&lines=%5Broot%40victor-sec+~%5D%23+whoami;Victor+de+Oliveira+Merencio;Cybersecurity+Developer;AppSec+Focused;%5Broot%40victor-sec+~%5D%23+ls;projects+skills.txt+about.txt;%5Broot%40victor-sec+~%5D%23+cat+about.txt;Full+Stack+Developer+%7C+3%2B+years+experience;Transitioning+to+Cybersecurity;%5Broot%40victor-sec+~%5D%23+cat+skills.txt;Java+Python+JavaScript+TypeScript;SpringBoot+React+Angular;Linux+Networking+SQL"/>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🖥️ System Info
 
 ```bash
-> Nome: Victor de Oliveira Merencio
-> Idade: 17
-> Experiência: 3+ anos como dev
-> Foco atual: Cybersecurity (AppSec)
-```
+root@victor-sec:~# whoami
+Victor de Oliveira Merencio
 
-Sou desenvolvedor full stack migrando para segurança de aplicações.
-Tenho experiência prática com backend, frontend e banco de dados — agora focado em exploração de vulnerabilidades e automação de segurança.
+root@victor-sec:~# id
+uid=1000(victor) gid=1000(victor) groups=dev,security
+
+root@victor-sec:~# cat role.txt
+Full Stack Developer → Cybersecurity
+Focus: AppSec / Web Security
+```
 
 ---
 
-## ⚙️ Arsenal Tecnológico
+## ⚙️ Arsenal
 
-### 💻 Linguagens
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-0f0f0f?style=for-the-badge\&logo=java\&logoColor=00ff00)
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge\&logo=python\&logoColor=00ff00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge\&logo=javascript\&logoColor=00ff00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge\&logo=typescript\&logoColor=00ff00)
+![C++](https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge\&logo=cplusplus\&logoColor=00ff00)
 
 ---
 
@@ -49,10 +45,17 @@ Tenho experiência prática com backend, frontend e banco de dados — agora foc
 
 ![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge\&logo=react\&logoColor=00ff00)
 ![Angular](https://img.shields.io/badge/Angular-0f0f0f?style=for-the-badge\&logo=angular\&logoColor=00ff00)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0f0f0f?style=for-the-badge\&logo=bootstrap\&logoColor=00ff00)
 
 ---
 
-### 🐧 Sistemas & Segurança
+### 🛢️ Database
+
+![SQL Server](https://img.shields.io/badge/SQLServer-0f0f0f?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=00ff00)
+
+---
+
+### 🐧 Systems & Security
 
 ![Linux](https://img.shields.io/badge/Linux-0f0f0f?style=for-the-badge\&logo=linux\&logoColor=00ff00)
 ![Kali](https://img.shields.io/badge/Kali-0f0f0f?style=for-the-badge\&logo=kalilinux\&logoColor=00ff00)
@@ -60,17 +63,19 @@ Tenho experiência prática com backend, frontend e banco de dados — agora foc
 
 ---
 
-## 🔐 Projetos em Execução
+## 🔐 Projects
 
 ```bash
-[+] vulnerable-web-app   -> laboratório de exploração (SQLi, XSS)
-[+] web-vuln-scanner     -> automação de testes de segurança
-[+] ctf-writeups         -> estudos práticos de exploração
+root@victor-sec:~# ls projects
+
+vulnerable-web-app   -> laboratório com falhas (SQLi, XSS)
+web-vuln-scanner     -> scanner básico de vulnerabilidades
+ctf-writeups         -> estudos e resoluções práticas
 ```
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victor-sysdev&show_icons=true&theme=chartreuse-dark"/>
@@ -79,15 +84,11 @@ Tenho experiência prática com backend, frontend e banco de dados — agora foc
 
 ---
 
-## 🧬 Filosofia
+## 🧬 Philosophy
 
 ```bash
-"I don't just write code.
-I test its limits."
+root@victor-sec:~# echo $MINDSET
+
+"I build systems.
+Now I'm learning how to break them."
 ```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0f0f0f&height=120&section=footer"/>
-</p>
