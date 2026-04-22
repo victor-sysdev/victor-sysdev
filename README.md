@@ -1,8 +1,7 @@
-<!-- BANNER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff00&height=200&section=header&text=Victor%20Merencio&fontColor=00ff00&fontSize=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=120&section=header&text=Victor%20Merencio&fontColor=00ff00&fontSize=30"/>
 </p>
+
 
 ---
 
