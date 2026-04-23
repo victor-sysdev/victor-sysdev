@@ -1,10 +1,10 @@
-<!-- TERMINAL ANIMADO (HEADER PRINCIPAL) -->
+<!-- TERMINAL ANIMADO -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=20&center=true&vCenter=true&width=900&lines=%5Broot%40victor-sec+~%5D%23+whoami;Victor+de+Oliveira+Merencio;Cybersecurity+Developer;AppSec+Focused;%5Broot%40victor-sec+~%5D%23+ls;projects+skills.txt+about.txt;%5Broot%40victor-sec+~%5D%23+cat+about.txt;Full+Stack+Developer+%7C+3%2B+years+experience;Transitioning+to+Cybersecurity;%5Broot%40victor-sec+~%5D%23+cat+skills.txt;Java+Python+JavaScript+TypeScript;SpringBoot+React+Angular;Linux+Networking+SQL"/>
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent);">
+<div style="height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent); margin: 30px 0;"></div>
 
 ## 🖥️ System Info
 
@@ -20,7 +20,7 @@ Full Stack Developer → Cybersecurity
 Focus: AppSec / Web Security
 ```
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent);">
+<div style="height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent); margin: 30px 0;"></div>
 
 ## ⚙️ Arsenal
 
@@ -32,14 +32,14 @@ Focus: AppSec / Web Security
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge\&logo=typescript\&logoColor=00ff00)
 ![C++](https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge\&logo=cplusplus\&logoColor=00ff00)
 
-
+---
 
 ### ⚙️ Backend
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-0f0f0f?style=for-the-badge\&logo=springboot\&logoColor=00ff00)
 ![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge\&logo=node.js\&logoColor=00ff00)
 
-
+---
 
 ### 🌐 Frontend
 
@@ -61,7 +61,7 @@ Focus: AppSec / Web Security
 ![Kali](https://img.shields.io/badge/Kali-0f0f0f?style=for-the-badge\&logo=kalilinux\&logoColor=00ff00)
 ![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge\&logo=git\&logoColor=00ff00)
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent);">
+<div style="height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent); margin: 30px 0;"></div>
 
 ## 🔐 Projects
 
@@ -73,7 +73,7 @@ web-vuln-scanner     -> scanner básico de vulnerabilidades
 ctf-writeups         -> estudos e resoluções práticas
 ```
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent);">
+<div style="height: 2px; background: linear-gradient(to right, transparent, #00ff00, transparent); margin: 30px 0;"></div>
 
 ## 📊 Stats
 
